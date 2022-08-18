@@ -1,0 +1,28 @@
+{
+    "employee": [
+      {
+        "name": "Abj",
+        "username": "Anju",
+        "department": "12344",
+        "salary": "456788",
+        "age": "32",
+        "gender": "Female",
+        "mail": "anjalipriya0565@gmail.com",
+        "mobile": "654",
+        "description": "gahj",
+        "id": 1
+      },
+      {
+        "name": "Priya",
+        "username": "priya0867",
+        "department": "Full Stack",
+        "salary": "540000",
+        "age": "23",
+        "gender": "Female",
+        "mail": "anjalipriya0565@gmail.com",
+        "mobile": "89078966",
+        "description": "Masai School",
+        "id": 2
+      }
+    ]
+  }
